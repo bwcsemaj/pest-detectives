@@ -1,0 +1,71 @@
+#register-email-address-container {
+
+}
+
+#register-email-address-icon {
+  height: 50px;
+  width: 50px;
+}
+
+#register-email-address-input{
+  height: 50px;
+}
+
+#register-first-name-container {
+
+}
+
+#register-first-name-icon {
+  height: 50px;
+  width: 50px;
+}
+
+#register-first-name-input{
+  height: 50px;
+}
+
+#register-last-name-container {
+
+}
+
+#register-last-name-input{
+  height: 50px;
+}
+
+#register-last-name-icon {
+  height: 50px;
+  width: 50px;
+}
+
+#register-password-container {
+  background-color: purple;
+}
+
+#register-password-icon {
+  height: 50px;
+  width: 50px;
+}
+
+#register-password-input{
+  height: 50px;
+}
+
+#register-bottom-container {
+  height: 65px;
+}
+
+#register-button-container {
+  height: 65px;
+}
+
+#register-submit-button {
+  height: 65px;
+  background-color: red;
+
+}
+
+#register-cancel-button {
+  height: 65px;
+  background-color: lightblue;
+}
+

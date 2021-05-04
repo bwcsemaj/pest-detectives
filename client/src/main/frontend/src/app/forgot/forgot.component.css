@@ -1,0 +1,28 @@
+#forgot-email-address-container{
+
+}
+
+#forgot-email-address-icon{
+  height: 50px;
+  width: 50px;
+}
+
+#forgot-email-address-input{
+  height: 50px;
+}
+
+#forgot-bottom-container{
+  height: 65px;
+}
+
+#forgot-button-container{
+  height: 65px;
+}
+
+#forgot-send-code-button{
+  height: 65px;
+}
+
+#forgot-cancel-button{
+  height: 65px;
+}
