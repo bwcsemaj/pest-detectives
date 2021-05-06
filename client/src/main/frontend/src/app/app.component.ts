@@ -3,6 +3,7 @@ import {MessageService} from "./message-service";
 import {FormControl} from "@angular/forms";
 import {debounceTime, distinctUntilChanged} from "rxjs/operators";
 import {Post} from "./post";
+import {Comment} from "./comment";
 
 @Component({
   selector: 'app-root',
